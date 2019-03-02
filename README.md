@@ -12,7 +12,7 @@ The main purpose was for me to practise some more C# using WinForms. However the
 
 ## How to run program
 
-Go to the "Release" tab, download the "DiceRoller.zip" folder and extract. Inside the folder double-click on the DiceRoller.exe file
+Go to the "Release" tab above, download the "DiceRoller.zip" folder and extract. Inside the folder double-click on the DiceRoller.exe file to run.
 
 ![Release_Tab_01.PNG](https://gamblepants.github.io/img/Release_Tab_01.PNG)
 ![download_01.PNG](https://gamblepants.github.io/img/download_01.PNG)

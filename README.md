@@ -17,8 +17,6 @@ Go to the "release" tab above, download the "DiceRoller.zip" folder and extract.
 ![Release_Tab_01.PNG](https://gamblepants.github.io/img/Release_Tab_01.PNG)
 ![download_01.PNG](https://gamblepants.github.io/img/download_01.PNG)
 
-images for dice downloaded from here (license file in the release):
-
 
 ## Example code
 
@@ -29,12 +27,14 @@ images for dice downloaded from here (license file in the release):
 all icons made by the following authors under the creative commons license by 3.0 
 https://creativecommons.org/licenses/by/3.0/
 
-d4 icon made by Skoll (Andy Meneely) http://www.se.rit.edu/~andy/ 
-d6 icon made by Delapoutie https://delapouite.com/
-d8 icon made by Delapoutie
-d10 icon made by Skoll
-d12 icon made by Skoll
-d20 icon made by Delapoutie
+<ul>
+  <li>d4 icon made by Skoll (Andy Meneely) http://www.se.rit.edu/~andy/ </li>
+  <li>d6 icon made by Delapoutie https://delapouite.com/</li>
+  <li>d8 icon made by Delapoutie</li>
+  <li>d10 icon made by Skoll</li>
+  <li>d12 icon made by Skoll</li>
+  <li>d20 icon made by Delapoutie</li>
+</ul>
 
 images can be found here: https://game-icons.net/tags/dice.html
 license for dice images can be found in the release tab (diceIcons_license.txt)

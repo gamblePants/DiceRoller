@@ -28,12 +28,8 @@ all icons made by the following authors under the creative commons license by 3.
 https://creativecommons.org/licenses/by/3.0/
 
 <ul>
-  <li>d4 icon made by Skoll (Andy Meneely) http://www.se.rit.edu/~andy/ </li>
-  <li>d6 icon made by Delapoutie https://delapouite.com/</li>
-  <li>d8 icon made by Delapoutie</li>
-  <li>d10 icon made by Skoll</li>
-  <li>d12 icon made by Skoll</li>
-  <li>d20 icon made by Delapoutie</li>
+  <li>d4, d10 and d12 icons made by Skoll (Andy Meneely) http://www.se.rit.edu/~andy/ </li>
+  <li>d6, d8 and d20 icons made by Delapoutie https://delapouite.com/</li>  
 </ul>
 
 images can be found here: https://game-icons.net/tags/dice.html

@@ -37,4 +37,4 @@ https://creativecommons.org/licenses/by/3.0/
 </ul>
 
 images can be found here: https://game-icons.net/tags/dice.html
-license for dice images can be found in the release tab (diceIcons_license.txt)
+license for dice images can be found in the release tab (license_diceImages.txt)

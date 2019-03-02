@@ -19,3 +19,7 @@ Go to the "Release" tab, download the "DiceRoller.zip" folder and extract. Insid
 
 images for dice downloaded from here (license file in the release):
 https://game-icons.net/tags/dice.html
+
+## Example code
+
+![diceRoller_snippet.PNG](https://gamblepants.github.io/img/diceRoller_snippet.PNG)

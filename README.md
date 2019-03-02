@@ -12,14 +12,29 @@ The main purpose was for me to practise some more C# using WinForms. However the
 
 ## How to run program
 
-Go to the "Release" tab above, download the "DiceRoller.zip" folder and extract. Inside the folder double-click on the DiceRoller.exe file to run.
+Go to the "release" tab above, download the "DiceRoller.zip" folder and extract. Inside the folder double-click on the DiceRoller.exe file to run.
 
 ![Release_Tab_01.PNG](https://gamblepants.github.io/img/Release_Tab_01.PNG)
 ![download_01.PNG](https://gamblepants.github.io/img/download_01.PNG)
 
 images for dice downloaded from here (license file in the release):
-https://game-icons.net/tags/dice.html
+
 
 ## Example code
 
 ![diceRoller_snippet.PNG](https://gamblepants.github.io/img/diceRoller_snippet.PNG)
+
+## Credits
+
+all icons made by the following authors under the creative commons license by 3.0 
+https://creativecommons.org/licenses/by/3.0/
+
+d4 icon made by Skoll (Andy Meneely) http://www.se.rit.edu/~andy/ 
+d6 icon made by Delapoutie https://delapouite.com/
+d8 icon made by Delapoutie
+d10 icon made by Skoll
+d12 icon made by Skoll
+d20 icon made by Delapoutie
+
+images can be found here: https://game-icons.net/tags/dice.html
+license for dice images can be found in the release tab (diceIcons_license.txt)

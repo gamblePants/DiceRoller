@@ -6,6 +6,16 @@ A simple winforms program which rolls dice and then displays the output. Click o
 
 In the above example 4 eight-sided dice are thrown for a total of 13, and then the modifier of 2 is added to give the final result of 15.
 
+## Purpose
+
+The main purpose was for me to practise some more C# using WinForms. However the program could be used as a tool for Role-Playing games (if for example, you found yourself in a situation with no real dice and wanted to simulate them). 
+
+## How to run program
+
+Go to the "Release" tab, download the "DiceRoller.zip" folder and extract. Inside the folder double-click on the DiceRoller.exe file
+
+![Release_Tab_01.PNG](https://gamblepants.github.io/img/Release_Tab_01.PNG)
+![download_01.PNG](https://gamblepants.github.io/img/download_01.PNG)
 
 images for dice downloaded from here (license file in the release):
 https://game-icons.net/tags/dice.html

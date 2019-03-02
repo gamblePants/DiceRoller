@@ -8,7 +8,7 @@ In the above example 4 eight-sided dice are thrown for a total of 13, and then t
 
 ## Purpose
 
-The main purpose was for me to practise some more C# using WinForms. However the program could be used as a tool for Role-Playing games (if for example, you found yourself in a situation with no real dice and wanted to simulate them). 
+As a tool for role-playing games. In particular if there are no physical dice available, this can be used as a substitute.
 
 ## How to run program
 
@@ -18,7 +18,7 @@ Go to the "release" tab above, download the "DiceRoller.zip" folder and extract.
 ![download_01.PNG](https://gamblepants.github.io/img/download_01.PNG)
 
 
-## Example code
+## Code snippet
 
 ```C#
 // method for rolling multiple dice of the same type and adding +/- modifier (eg 3d6 +1)

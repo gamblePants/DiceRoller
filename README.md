@@ -53,10 +53,8 @@ public static int DiceRoller(int multiplier, int die, int modifier)
 all icons made by the following authors under the creative commons license by 3.0 
 https://creativecommons.org/licenses/by/3.0/
 
-<ul>
-  <li>d4, d10 and d12 icons made by Skoll (Andy Meneely) http://www.se.rit.edu/~andy/ </li>
-  <li>d6, d8 and d20 icons made by Delapoutie https://delapouite.com/</li>  
-</ul>
+- d4, d10 and d12 icons made by Skoll (Andy Meneely) http://www.se.rit.edu/~andy/
+- d6, d8 and d20 icons made by Delapoutie https://delapouite.com/
 
 images can be found here: https://game-icons.net/tags/dice.html
 license for dice images can be found in the release tab (license_diceImages.txt)

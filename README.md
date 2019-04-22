@@ -12,7 +12,7 @@ As a tool for role-playing games. In particular if there are no physical dice av
 
 ## How to run program
 
-Go to the "release" tab above, download the "DiceRoller.zip" folder and extract. Inside the folder double-click on the DiceRoller.exe file to run. (Runs on Windows only).
+Go to the [Release](https://github.com/gamblePants/DiceRoller/releases) page, download the "DiceRoller.zip" folder to your computer and extract. Inside the folder double-click on the DiceRoller.exe file to run. (Runs on Windows only).
 
 ![Release_Tab_01.PNG](https://gamblepants.github.io/img/Release_Tab_01.PNG)
 ![download_01.PNG](https://gamblepants.github.io/img/download_01.PNG)

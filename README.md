@@ -14,8 +14,7 @@ As a tool for role-playing games. In particular if there are no physical dice av
 
 Go to the [Release](https://github.com/gamblePants/DiceRoller/releases) page, download the "DiceRoller.zip" folder to your computer and extract. Inside the folder double-click on the DiceRoller.exe file to run. (Runs on Windows only).
 
-![Release_Tab_01.PNG](https://gamblepants.github.io/img/Release_Tab_01.PNG)
-![download_01.PNG](https://gamblepants.github.io/img/download_01.PNG)
+You might get a Windows Defender warning the first time running the program: "Windows protected your PC". Click on "More info" then "Run anyway" (or just "Run anyway").
 
 
 ## Code snippet
